@@ -10,7 +10,9 @@ Ao executar o programa, aparece uma pequena janela dando as boas-vindas;
 
 4 - Em seguida o programa segue para a fase de operações:
 
-![plot](C:\Users\gabri\Downloads\FireShot\thxfx.png)
+<p align = "center">
+    <img src = "Banco/thxfx.png">
+</p>
 
 
 
