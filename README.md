@@ -10,7 +10,7 @@ Ao executar o programa, aparece uma pequena janela dando as boas-vindas;
 
 4 - Em seguida o programa segue para a fase de operações:
 
-![Alt text](C:\Users\gabri\Downloads\FireShot\thxfx.png)
+![plot](C:\Users\gabri\Downloads\FireShot\thxfx.png)
 
 
 
